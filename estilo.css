@@ -5,6 +5,7 @@ li{
 	font-family: monospace;
 }
 
-img {
-	float: left;
+body {
+	width: 50%;
+	margin: auto;
 }
